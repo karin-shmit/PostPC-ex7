@@ -39,7 +39,6 @@ public class EditOrderActivity extends AppCompatActivity {
         setContentView(R.layout.edit_order_activity);
 
         app = new App();
-//        FirebaseApp.initializeApp(this);
 
         db = FirebaseFirestore.getInstance();
 
