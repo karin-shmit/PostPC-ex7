@@ -34,10 +34,6 @@ public class OrderInProgressActivity extends AppCompatActivity {
                             startNewOrderActivity();
                             return;
                         }
-                        if (order.getStatus().equals("in progress")){
-                            startActivityWithOrder(OrderInProgressActivity.class, order);
-                            return;
-                        }
                         if (order.getStatus().equals("ready")){
                             startActivityWithOrder(OrderIsReadyActivity.class, order);
                         }
