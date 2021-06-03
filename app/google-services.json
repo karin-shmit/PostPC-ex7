@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683810983635",
+    "project_id": "postpcex7-c2d6a",
+    "storage_bucket": "postpcex7-c2d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683810983635:android:533b9b7864a3d939070e26",
+        "android_client_info": {
+          "package_name": "postpc.huji.ex7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683810983635-dncavqldt6lf478l533ipkhmg0sipm9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgT06pnsaCPioQRDtnJBDdScR7bZsgiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683810983635-dncavqldt6lf478l533ipkhmg0sipm9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
